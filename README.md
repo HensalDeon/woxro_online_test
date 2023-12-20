@@ -15,7 +15,7 @@
 
 2. Navigate to the project folder:
    ```bash
-   cd woxro_MT
+   cd test
 
 3. Install dependencies:
    ```bash
